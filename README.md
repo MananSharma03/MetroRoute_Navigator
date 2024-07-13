@@ -9,4 +9,5 @@ The main concepts involved in the Metro Navigation System project include:
 **Shortest Path Algorithms:** Algorithms like Dijkstra's or A* are used to compute the shortest path between two stations based on distance or time.
 **HTML/CSS/JavaScript:** The front-end of the application is built using HTML for structure, CSS for styling, and JavaScript for interactivity and logic implementation.
 **DOM Manipulation:** JavaScript is used to dynamically update the HTML content based on user interactions, such as selecting source and destination stations.
+
 Visualization: A visual representation of the metro map helps users to understand the routes and plan their journeys more effectively.
