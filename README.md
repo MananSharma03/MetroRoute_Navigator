@@ -5,7 +5,7 @@ The Metro Navigation System is a web-based application designed to help users na
 
 The main concepts involved in the Metro Navigation System project include:
 
-Graph Theory: The metro stations and routes are represented as a graph, where stations are nodes and routes are edges with weights representing distances or times.
+**Graph Theory**: The metro stations and routes are represented as a graph, where stations are nodes and routes are edges with weights representing distances or times.
 
 Shortest Path Algorithms: Algorithms like Dijkstra's or A* are used to compute the shortest path between two stations based on distance or time.
 
